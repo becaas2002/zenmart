@@ -1,7 +1,7 @@
 .home_page {
  display: flex;
  flex-direction: column; 
- padding-bottom: 60px;  
+ 
 }
 .container .category_top {
         width: 100%;
