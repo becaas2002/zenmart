@@ -104,7 +104,7 @@ border-radius: 50%;
 
    .container .next_prev_box {
     width: 25px;
-
+z-index: 9;
 }
 .container .next_prev_box img {
     position: absolute;
@@ -831,7 +831,7 @@ text-align: left;
     display: flex;
     flex-direction: row;
     justify-content: center; 
-    background-image: url(./public/images/icons/event_bg.png);  
+    /* background-image: url(./public/images/icons/event_bg.png);   */
 }
 .event_frame .container {
     display: flex;
